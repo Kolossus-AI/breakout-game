@@ -10,3 +10,4 @@
 10. Add wall bounderies 
 11. Increase score when bricks break
 12. Lose - redraw bricks, reset score
+13. test
